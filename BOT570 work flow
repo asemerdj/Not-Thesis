@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-02-24T19:14:02.373Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="SU7c3ZFrsc6ATFp8nHEf" version="20.8.20" type="github">
+<mxfile host="app.diagrams.net" modified="2023-02-24T19:29:01.789Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="50ot6ipPPxORpmlfJthO" version="20.8.20" type="github">
   <diagram name="Page-1" id="2I0RrrW4kzfVyfCr0z39">
-    <mxGraphModel dx="2393" dy="1871" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="4783" dy="2757" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -11,19 +11,19 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="DdT645tiMRRqprBuNV00-27" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="-392" y="6" width="422" height="193.7" as="geometry" />
+          <mxGeometry x="-393" y="6" width="408" height="193.7" as="geometry" />
         </mxCell>
         <mxCell id="DdT645tiMRRqprBuNV00-14" value="" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;container=0;fillColor=#B9E0A5;strokeColor=#82b366;" vertex="1" parent="DdT645tiMRRqprBuNV00-27">
-          <mxGeometry y="4" width="357.9140401146133" height="134" as="geometry" />
+          <mxGeometry y="4" width="346.04011461318066" height="134" as="geometry" />
         </mxCell>
         <mxCell id="DdT645tiMRRqprBuNV00-15" value="&lt;h1&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;TwentyPerSite_measurements.csv&lt;/font&gt;&lt;/h1&gt;&lt;p&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;512 grids with sufficient samples&lt;/li&gt;&lt;li&gt;10,770 qualifying specimens&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;fontSize=16;container=0;" vertex="1" parent="DdT645tiMRRqprBuNV00-27">
-          <mxGeometry x="12.091690544412609" width="355.49570200573066" height="142" as="geometry" />
+          <mxGeometry x="11.690544412607453" width="343.70200573065904" height="142" as="geometry" />
         </mxCell>
         <mxCell id="DdT645tiMRRqprBuNV00-22" value="" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fontSize=16;fillColor=#ffe6cc;strokeColor=#d79b00;container=0;" vertex="1" parent="DdT645tiMRRqprBuNV00-27">
-          <mxGeometry x="87.06017191977078" y="118" width="334.9398280802293" height="72" as="geometry" />
+          <mxGeometry x="84.17191977077366" y="118" width="323.8280802292265" height="72" as="geometry" />
         </mxCell>
         <mxCell id="DdT645tiMRRqprBuNV00-21" value="&lt;ul&gt;&lt;li&gt;235 measured so far&lt;/li&gt;&lt;li&gt;going to LACM to measure ~2,000 last week of Feb&lt;/li&gt;&lt;/ul&gt;" style="text;strokeColor=none;fillColor=none;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;container=0;" vertex="1" parent="DdT645tiMRRqprBuNV00-27">
-          <mxGeometry x="108.82521489971349" y="118" width="310.75644699140406" height="75.7" as="geometry" />
+          <mxGeometry x="105.21489971346706" y="118" width="300.44699140401144" height="75.7" as="geometry" />
         </mxCell>
         <mxCell id="DdT645tiMRRqprBuNV00-93" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;fontSize=20;startSize=8;endSize=8;" edge="1" parent="1" source="DdT645tiMRRqprBuNV00-38" target="DdT645tiMRRqprBuNV00-51">
           <mxGeometry relative="1" as="geometry" />
@@ -32,7 +32,7 @@
           <mxGeometry x="-393" y="385" width="134" height="60" as="geometry" />
         </mxCell>
         <mxCell id="DdT645tiMRRqprBuNV00-45" value="&lt;font style=&quot;&quot;&gt;&lt;b style=&quot;font-size: 20px;&quot;&gt;1 simulated data.R&lt;/b&gt;&amp;nbsp;&lt;br&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;Supplemented data with randomly generated numbers assigned to each species based on the range of skull lengths reported in literature - saved as shapefile&lt;/font&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
-          <mxGeometry x="-383" y="221" width="391" height="99" as="geometry" />
+          <mxGeometry x="-392" y="221" width="391" height="99" as="geometry" />
         </mxCell>
         <mxCell id="DdT645tiMRRqprBuNV00-94" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;fontSize=20;startSize=8;endSize=8;" edge="1" parent="1" source="DdT645tiMRRqprBuNV00-48" target="DdT645tiMRRqprBuNV00-51">
           <mxGeometry relative="1" as="geometry" />
@@ -50,13 +50,13 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="DdT645tiMRRqprBuNV00-5" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;&lt;b&gt;Primary Data Source&lt;/b&gt;&lt;/font&gt;&lt;br&gt;Queried VertNet&lt;br&gt;Laid 800m2 grid over study area&lt;br&gt;For each species - filtered to remove grid cells where &amp;gt;15 specimens were recorded" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;fillColor=#B9E0A5;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="-387" y="-187" width="368.13" height="126" as="geometry" />
+          <mxGeometry x="-392" y="-187" width="368.13" height="126" as="geometry" />
         </mxCell>
         <mxCell id="DdT645tiMRRqprBuNV00-96" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;fontSize=20;startSize=8;endSize=8;" edge="1" parent="1" source="DdT645tiMRRqprBuNV00-62" target="DdT645tiMRRqprBuNV00-63">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="DdT645tiMRRqprBuNV00-62" value="&lt;b&gt;Climate data previously extracted at these points for another part of my dissertation&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;fillColor=#B9E0A5;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="-800" y="578" width="280" height="103" as="geometry" />
+          <mxGeometry x="-800" y="579" width="280" height="103" as="geometry" />
         </mxCell>
         <mxCell id="DdT645tiMRRqprBuNV00-97" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=20;startSize=8;endSize=8;exitX=0.75;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="DdT645tiMRRqprBuNV00-63" target="DdT645tiMRRqprBuNV00-72">
           <mxGeometry relative="1" as="geometry">
@@ -88,17 +88,20 @@
         <mxCell id="DdT645tiMRRqprBuNV00-64" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;fontSize=16;startSize=8;endSize=8;" edge="1" parent="1" source="DdT645tiMRRqprBuNV00-63" target="DdT645tiMRRqprBuNV00-63">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="DdT645tiMRRqprBuNV00-79" value="&lt;b&gt;fine_E_normalized.csv&lt;br&gt;&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="-209.5" y="1359" width="271.5" height="49" as="geometry" />
+        <mxCell id="DdT645tiMRRqprBuNV00-127" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;fontSize=20;startSize=8;endSize=8;" edge="1" parent="1" source="DdT645tiMRRqprBuNV00-79" target="DdT645tiMRRqprBuNV00-118">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="DdT645tiMRRqprBuNV00-84" value="&lt;b&gt;coarse_E_normalized.csv&lt;br&gt;&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="-491" y="1359" width="271.5" height="49" as="geometry" />
+        <mxCell id="DdT645tiMRRqprBuNV00-123" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;fontSize=20;startSize=8;endSize=8;" edge="1" parent="1" source="DdT645tiMRRqprBuNV00-84" target="DdT645tiMRRqprBuNV00-121">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="DdT645tiMRRqprBuNV00-85" value="&lt;b&gt;location_E_normalized.csv&lt;br&gt;&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="73" y="1359" width="271.5" height="49" as="geometry" />
+        <mxCell id="DdT645tiMRRqprBuNV00-130" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;fontSize=20;startSize=8;endSize=8;" edge="1" parent="1" source="DdT645tiMRRqprBuNV00-85" target="DdT645tiMRRqprBuNV00-120">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DdT645tiMRRqprBuNV00-122" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=20;startSize=8;endSize=8;" edge="1" parent="1" source="DdT645tiMRRqprBuNV00-72" target="DdT645tiMRRqprBuNV00-121">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="DdT645tiMRRqprBuNV00-72" value="&lt;b&gt;coarse_s.csv&lt;br&gt;&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="-501" y="1280" width="173.5" height="46" as="geometry" />
+          <mxGeometry x="-521" y="1280" width="173.5" height="46" as="geometry" />
         </mxCell>
         <mxCell id="DdT645tiMRRqprBuNV00-89" value="" style="endArrow=classic;html=1;rounded=0;fontSize=20;startSize=8;endSize=8;curved=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="DdT645tiMRRqprBuNV00-5" target="DdT645tiMRRqprBuNV00-15">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -112,65 +115,100 @@
         <mxCell id="DdT645tiMRRqprBuNV00-61" value="&lt;font style=&quot;&quot;&gt;&lt;b style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;3 combine climate and smammal data.R&lt;/font&gt;&lt;/b&gt;&lt;br&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;bind relevant columns into new data frame&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="-716" y="724" width="420" height="62" as="geometry" />
         </mxCell>
+        <mxCell id="DdT645tiMRRqprBuNV00-129" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=20;startSize=8;endSize=8;" edge="1" parent="1" source="DdT645tiMRRqprBuNV00-86" target="DdT645tiMRRqprBuNV00-120">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="DdT645tiMRRqprBuNV00-86" value="&lt;b&gt;location_s.csv&lt;br&gt;&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="73" y="1291" width="173.5" height="46" as="geometry" />
+          <mxGeometry x="53" y="1280" width="173.5" height="46" as="geometry" />
+        </mxCell>
+        <mxCell id="DdT645tiMRRqprBuNV00-126" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=20;startSize=8;endSize=8;" edge="1" parent="1" source="DdT645tiMRRqprBuNV00-83" target="DdT645tiMRRqprBuNV00-118">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="DdT645tiMRRqprBuNV00-83" value="&lt;b&gt;fine_s.csv&lt;br&gt;&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="-209.5" y="1285" width="173.5" height="46" as="geometry" />
+          <mxGeometry x="-229.5" y="1280" width="173.5" height="46" as="geometry" />
         </mxCell>
         <mxCell id="DdT645tiMRRqprBuNV00-70" value="&lt;font style=&quot;&quot;&gt;&lt;b style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;binary matrices.R&lt;br&gt;&lt;/font&gt;&lt;/b&gt;Create S matrices with 1&#39;s/0/s indicating whether species are present/absent in coarse and fine habitat categories, as well as at individual grid cells&lt;br&gt;&lt;br&gt;Create E matrices with normalized ppt, tmax, tmin, tdmean, vpdmax, vpdmean&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
-          <mxGeometry x="-501" y="970" width="406" height="218" as="geometry" />
+          <mxGeometry x="-509" y="976.75" width="406" height="218" as="geometry" />
         </mxCell>
-        <mxCell id="DdT645tiMRRqprBuNV00-105" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=20;startSize=8;endSize=8;exitX=0.75;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" target="DdT645tiMRRqprBuNV00-114">
+        <mxCell id="DdT645tiMRRqprBuNV00-105" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=20;startSize=8;endSize=8;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="DdT645tiMRRqprBuNV00-114" source="DdT645tiMRRqprBuNV00-63">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="-1317" y="920" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="DdT645tiMRRqprBuNV00-106" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=20;startSize=8;endSize=8;exitX=0.75;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" target="DdT645tiMRRqprBuNV00-116">
+        <mxCell id="DdT645tiMRRqprBuNV00-106" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.75;entryY=0;entryDx=0;entryDy=0;fontSize=20;startSize=8;endSize=8;exitX=0.25;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" target="DdT645tiMRRqprBuNV00-116" source="DdT645tiMRRqprBuNV00-63">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="-1317" y="920" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="DdT645tiMRRqprBuNV00-107" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.25;entryY=0;entryDx=0;entryDy=0;fontSize=20;startSize=8;endSize=8;exitX=0.75;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" target="DdT645tiMRRqprBuNV00-115">
+        <mxCell id="DdT645tiMRRqprBuNV00-107" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.75;entryY=0;entryDx=0;entryDy=0;fontSize=20;startSize=8;endSize=8;exitX=0.25;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" target="DdT645tiMRRqprBuNV00-115" source="DdT645tiMRRqprBuNV00-63">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="-1317" y="920" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="DdT645tiMRRqprBuNV00-108" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=20;startSize=8;endSize=8;" edge="1" parent="1" target="DdT645tiMRRqprBuNV00-112">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-1317" y="920" as="sourcePoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="DdT645tiMRRqprBuNV00-109" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;fontSize=20;startSize=8;endSize=8;startArrow=none;" edge="1" parent="1" target="DdT645tiMRRqprBuNV00-111">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-1317" y="920" as="sourcePoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="DdT645tiMRRqprBuNV00-110" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.25;entryY=0;entryDx=0;entryDy=0;fontSize=20;startSize=8;endSize=8;startArrow=none;exitX=0.75;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" target="DdT645tiMRRqprBuNV00-113">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-1317" y="920" as="sourcePoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="DdT645tiMRRqprBuNV00-111" value="&lt;b&gt;fine_E_normalized.csv&lt;br&gt;&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="-1081.5" y="1361" width="271.5" height="49" as="geometry" />
-        </mxCell>
-        <mxCell id="DdT645tiMRRqprBuNV00-112" value="&lt;b&gt;coarse_E_normalized.csv&lt;br&gt;&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="-1363" y="1361" width="271.5" height="49" as="geometry" />
-        </mxCell>
-        <mxCell id="DdT645tiMRRqprBuNV00-113" value="&lt;b&gt;location_E_normalized.csv&lt;br&gt;&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="-799" y="1361" width="271.5" height="49" as="geometry" />
+        <mxCell id="DdT645tiMRRqprBuNV00-124" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;fontSize=20;startSize=8;endSize=8;" edge="1" parent="1" source="DdT645tiMRRqprBuNV00-114" target="DdT645tiMRRqprBuNV00-121">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="DdT645tiMRRqprBuNV00-114" value="&lt;b&gt;coarse_s.csv&lt;br&gt;&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="-1373" y="1282" width="173.5" height="46" as="geometry" />
+          <mxGeometry x="-1290" y="1280" width="173.5" height="46" as="geometry" />
+        </mxCell>
+        <mxCell id="DdT645tiMRRqprBuNV00-128" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;fontSize=20;startSize=8;endSize=8;" edge="1" parent="1" source="DdT645tiMRRqprBuNV00-115" target="DdT645tiMRRqprBuNV00-120">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="DdT645tiMRRqprBuNV00-115" value="&lt;b&gt;location_s.csv&lt;br&gt;&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="-799" y="1293" width="173.5" height="46" as="geometry" />
+          <mxGeometry x="-716" y="1280" width="173.5" height="46" as="geometry" />
+        </mxCell>
+        <mxCell id="DdT645tiMRRqprBuNV00-125" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;fontSize=20;startSize=8;endSize=8;" edge="1" parent="1" source="DdT645tiMRRqprBuNV00-116" target="DdT645tiMRRqprBuNV00-118">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="DdT645tiMRRqprBuNV00-116" value="&lt;b&gt;fine_s.csv&lt;br&gt;&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="-1081.5" y="1287" width="173.5" height="46" as="geometry" />
+          <mxGeometry x="-998.5" y="1280" width="173.5" height="46" as="geometry" />
         </mxCell>
-        <mxCell id="DdT645tiMRRqprBuNV00-117" value="&lt;font style=&quot;&quot;&gt;&lt;b style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;binary matrices.R&lt;br&gt;&lt;/font&gt;&lt;/b&gt;Create S matrices with 1&#39;s/0/s indicating whether species are present/absent in coarse and fine habitat categories, as well as at individual grid cells&lt;br&gt;&lt;br&gt;Create E matrices with normalized ppt, tmax, tmin, tdmean, vpdmax, vpdmean&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
-          <mxGeometry x="-933.5" y="973" width="406" height="218" as="geometry" />
+        <mxCell id="DdT645tiMRRqprBuNV00-117" value="&lt;font style=&quot;&quot;&gt;&lt;b style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;covar in species matrices.R&lt;br&gt;&lt;/font&gt;&lt;/b&gt;Create S matrices with coefficient of varience for each species in each habitat (separate matrices for coarse, fine, location)&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="-956" y="1024.5" width="406" height="122.5" as="geometry" />
+        </mxCell>
+        <mxCell id="DdT645tiMRRqprBuNV00-135" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=20;startSize=8;endSize=8;" edge="1" parent="1" source="DdT645tiMRRqprBuNV00-118" target="DdT645tiMRRqprBuNV00-131">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DdT645tiMRRqprBuNV00-136" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;fontSize=20;startSize=8;endSize=8;" edge="1" parent="1" source="DdT645tiMRRqprBuNV00-118" target="DdT645tiMRRqprBuNV00-132">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DdT645tiMRRqprBuNV00-118" value="&lt;font style=&quot;&quot;&gt;&lt;b style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;rotate fine.R&lt;br&gt;&lt;/font&gt;&lt;/b&gt;Ordinate binary matrix using NMDS, fit environmental variables, rotate on &lt;b&gt;ppt &lt;/b&gt;and &lt;b&gt;tmax&lt;/b&gt;.&amp;nbsp;&lt;br&gt;&lt;br&gt;plot skull length coefficient of variation for each species against ordination scores&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="-709.5" y="1533" width="406" height="196" as="geometry" />
+        </mxCell>
+        <mxCell id="DdT645tiMRRqprBuNV00-137" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;fontSize=20;startSize=8;endSize=8;" edge="1" parent="1" source="DdT645tiMRRqprBuNV00-120" target="DdT645tiMRRqprBuNV00-133">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DdT645tiMRRqprBuNV00-138" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;fontSize=20;startSize=8;endSize=8;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="DdT645tiMRRqprBuNV00-120" target="DdT645tiMRRqprBuNV00-134">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="236" y="1775" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DdT645tiMRRqprBuNV00-120" value="&lt;font style=&quot;&quot;&gt;&lt;b style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;rotate location.R&lt;br&gt;&lt;/font&gt;&lt;/b&gt;Ordinate binary matrix using NMDS, fit environmental variables, rotate on &lt;b&gt;ppt &lt;/b&gt;and &lt;b&gt;tmax&lt;/b&gt;.&amp;nbsp;&lt;br&gt;&lt;br&gt;plot skull length coefficient of variation for each species against ordination scores&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="-106.5" y="1533" width="406" height="196" as="geometry" />
+        </mxCell>
+        <mxCell id="DdT645tiMRRqprBuNV00-121" value="&lt;font style=&quot;&quot;&gt;the coarse scale data didn&#39;t have enough points to make this work&amp;nbsp;&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="-1308.5" y="1589.5" width="406" height="83" as="geometry" />
+        </mxCell>
+        <mxCell id="DdT645tiMRRqprBuNV00-84" value="&lt;b&gt;coarse_E_normalized.csv&lt;br&gt;&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="-511" y="1359" width="271.5" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="DdT645tiMRRqprBuNV00-85" value="&lt;b&gt;location_E_normalized.csv&lt;br&gt;&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="53" y="1359" width="271.5" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="DdT645tiMRRqprBuNV00-79" value="&lt;b&gt;fine_E_normalized.csv&lt;br&gt;&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="-229.5" y="1359" width="271.5" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="DdT645tiMRRqprBuNV00-131" value="&lt;b&gt;ppt_fine.png&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="-709.5" y="1854" width="196" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="DdT645tiMRRqprBuNV00-132" value="&lt;b&gt;tmax_fine.png&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="-499.5" y="1854" width="196" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="DdT645tiMRRqprBuNV00-133" value="&lt;b&gt;ppt_location.png&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="-106.5" y="1854" width="196" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="DdT645tiMRRqprBuNV00-134" value="&lt;b&gt;tmax_location.png&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="103.5" y="1854" width="196" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
